@@ -3,7 +3,7 @@ myproject
 =========
 
 
-Cool project
+Cool project1
 
 
 Description
